@@ -1,0 +1,4 @@
+#Wed Jul 05 15:09:40 EAT 2017
+base.0=/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_c287e1da6715e068c78bd9ca8cd1d959d07e6ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.0_a6efc6dc6fcd7571581d8c54b534323b14f72db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_2944c86921ed0af72f7514708ff7cbd5083b964c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.0_eda81a6e021582d16278f5c16c21abdcbbca44ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_49d94e02eb3ba7d745112010faee92696861d0c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_4afc056c1413d161c4729c355b1e9d09c8d057ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_f881e97e09aeb3312b2acf10d088dba6bd91a87f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_5f370a1bda4ccdf249bab48718af5bd3023e54c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_c6cce6abf32dbd4ed43a65bbff4c3514f08d37ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7a3c33d16a70524553ff744548bb37dcac535614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_d6a7abd17e24be00ce7a4e64c772b6f957a53544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_e3e216b7ffc5cf4e4eca0795c9eec59fde7e660b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_61684e4cc06f836a735b1483f2303350a73fb8c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/TaxiApp/react-native-google-places/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fb1fffff4db4af7e3bb59640a2e4de00238ae0e5">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/TaxiApp-react-native-google-places-unspecified_1f25f50651ce728244554898658150937d425020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_79c6ee3143a012e98be7d9a2fbf0d5f1d7e97088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/TaxiApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bae0199db7ba793462e83c06ab6df17ac4a3425f">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/TaxiApp-react-native-vector-icons-unspecified_e3fc3b82e6194a63297014bb7176c813b420c530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.3.4_435c34162af2b3290cf1dd537757084873d0b22b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_6826da30285d234eb3d2b6c6899d8fc10b8516f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_a385c5e71d022261b05f4c39b48c253f177027b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2a8b3e827b1e310ab3f6e64721efd7635efabf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3ce0065553b5c238e5c2d527709c50ef32466955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_349fe5b73dc14e768be59f2226f48694e54dde5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_44d668065a4f7fb4cdb964266acb014c5ff3f771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_27343091e9791a10bc5ec2a505c8b7cb3fdb394f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_2937ce8386f69bc58d6088725b4e0821b8f1f2b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.2.0_472a4a0222b48f841b41839f37e53152e58c535b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_f23dd543e3e53f2233228c2596423a92d3a394ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/TaxiApp/react-native-spinkit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a15cd149bac5b92a67405538382c63654c70ce79">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/TaxiApp-react-native-spinkit-unspecified_29ed1457246ada36844469243580eef77e950495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_9da70bd105a7571e29837ccf5654c9e795d51f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_05344001dba72843239f7375eb9a9264b7d11aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0260b92597509945658e84e25985e111150f0697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_6a51ea22ffab139a5b7ef9749e4d603a7a04e85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/charles/ReactProjects/TaxiApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_71add9e0b43ff1bbc6251859b86219aed099a5b6.jar" />
+    </item>
+
+</items>
